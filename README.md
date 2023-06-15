@@ -26,8 +26,25 @@ X [ 5 | 3 | 7 | 10 | 5 | 12 | 2 | 17 | 19 | 5 | 20 | 15 | 30 ]
 -> Read More About: [Moving Average ](https://en.wikipedia.org/wiki/Moving_average).
 
 ## Explanation and distribution of projects
- * [Team Members](#team-members)
+ * [Arduino](https://github.com/BasilAvad/MovingAverage/tree/main/Examples/arduino).
+ ```bash
 
+  - Data type: (string) - Format: JSON. 
+
+  - Programing IDE VS Code [Platformio](https://platformio.org/).
+
+
+
+
+ ```
+ * [ESP32](https://github.com/BasilAvad/MovingAverage/tree/main/Examples/esp32).
+ ```bash
+
+  - Data type: (string) - Format: JSON. 
+
+  - Programing IDE VS Code [Platformio](https://platformio.org/).
+
+ ```
 ## Installation
 ```bash
 
