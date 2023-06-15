@@ -2,7 +2,11 @@
 <h1 align="center"> الوسط المتحرك </h1>
 
 Filter your sensor data with moving average, making your system stable and easy to control.
-<code style="color : aqua">TEST</code>
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 ## Explanation of moving average formula
 *  In Arabic.
 ```bash
