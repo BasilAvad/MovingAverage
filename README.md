@@ -2,7 +2,7 @@
 <h1 align="center"> الوسط المتحرك </h1>
 
 Filter your sensor data with moving average, making your system stable and easy to control.
-https://user-images.githubusercontent.com/69681817/115629815-b87b7b00-a30b-11eb-9f15-a5cdab41f55b.mp4
+
 ## Explanation of moving average formula
 *  In Arabic.
 ```bash
