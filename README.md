@@ -1,11 +1,9 @@
-# Moving Average in Cpp
-
+# Moving Average in Cpp   الوسط المتحرك 
+ تعريف: الأوساط المتحركة تستخدم في توهين التعرجات الحادة في البيانات الرقمية بقصد معرفة الاتجاه العام لها..
 Filter your sensor data with moving average, making your system easy to control.
 
 ## Explanation of moving average formula
-
-1-
-
+ --[Moving Average ](https://en.wikipedia.org/wiki/Moving_average).
 
 ## Explanation and distribution of projects
 
