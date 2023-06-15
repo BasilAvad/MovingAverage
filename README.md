@@ -26,8 +26,7 @@ X [ 5 | 3 | 7 | 10 | 5 | 12 | 2 | 17 | 19 | 5 | 20 | 15 | 30 ]
 -> Read More About: [Moving Average ](https://en.wikipedia.org/wiki/Moving_average).
 
 ## Explanation and distribution of projects
-
-1-
+ * [Team Members](#team-members)
 
 ## Installation
 ```bash
