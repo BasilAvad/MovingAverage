@@ -1,6 +1,6 @@
 <h1 align="center"> Moving Average in Cpp </h1>
 <h1 align="center"> الوسط المتحرك </h1>
-# Color Test Document <style>H1{color:Blue;}</style> <style>H2{color:DarkOrange;}</style> <style>p{color:Black;}</style> ## Second Heading
+
 Filter your sensor data with moving average, making your system stable and easy to control.
 
 ## Explanation of moving average formula
@@ -61,6 +61,7 @@ void loop()
   delay(2)
 }
 ```
+<h1 align="center"> Moving Average Library Test And Result </h1>
 ## Contributing
 
 
