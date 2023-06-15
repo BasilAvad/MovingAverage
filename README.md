@@ -39,14 +39,29 @@ X [ 5 | 3 | 7 | 10 | 5 | 12 | 2 | 17 | 19 | 5 | 20 | 15 | 30 ]
 Use the Arduino IDE [Arduino IDE](https://www.arduino.cc/en/software) or PlatformIO IDE in VS Code [PlatformIO IDE](https://platformio.org) to update this code.
 ```bash
 
-
 git clone https://github.com/BasilAvad/MovingAverage
 
 ```
 ## Usage
+* Create an object of MovingAverage using the constructor
 ```cpp
-..
+//
+#include <movingaverage.h>
 
+MovingAverage sensor1(20);
+```
+*  Call a member function of the object in the loop function
+```cpp
+void loop()
+
+{
+
+  float result = sensor1.mafunc(sensorValue1);
+
+  delay(2)
+
+
+}
 ```
 ## Contributing
 
