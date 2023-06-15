@@ -22,12 +22,7 @@ X [ 5 | 3 | 7 | 10 | 5 | 12 | 2 | 17 | 19 | 5 | 20 | 15 | 30 ]
 
 ## Installation
 ```bash
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
 
-
-| `git diff` | Show file differences that **haven't been** staged |
 ```
 ## Usage
 ```cpp
@@ -43,3 +38,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 Please make sure to update tests as appropriate.
+| Command | Description |
+
+| --- | --- |
+
+| `git status` | List all *new or modified* files |
+
+
+
+
+
+| `git diff` | Show file differences that **haven't been** staged |
