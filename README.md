@@ -44,7 +44,7 @@ git clone https://github.com/BasilAvad/MovingAverage
 
 ```
 ## Usage
-* Include and Call the header file in your project.
+* Include and Call the header file  inside your project.
 ```cpp
 #include <movingaverage.h>
 ```
