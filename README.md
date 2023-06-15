@@ -1,6 +1,6 @@
 # Moving Average in Cpp   الوسط المتحرك 
  
-Filter your sensor data with moving average, making your system easy to control.
+Filter your sensor data with moving average, making your system stable and easy to control.
 
 ## Explanation of moving average formula
  
