@@ -12,12 +12,7 @@ X [ 5 | 3 | 7 | 10 | 5 | 12 | 2 | 17 | 19 | 5 | 20 | 15 | 30 ]
 حيث ترمز T للفترة الزمنية و X الى القيمة المقروءة من الحساس 
 
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
 
-
-| `git diff` | Show file differences that **haven't been** staged |
 ```
 -> Read More About: [Moving Average ](https://en.wikipedia.org/wiki/Moving_average).
 
@@ -27,8 +22,12 @@ X [ 5 | 3 | 7 | 10 | 5 | 12 | 2 | 17 | 19 | 5 | 20 | 15 | 30 ]
 
 ## Installation
 ```bash
-..
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
 
+
+| `git diff` | Show file differences that **haven't been** staged |
 ```
 ## Usage
 ```cpp
