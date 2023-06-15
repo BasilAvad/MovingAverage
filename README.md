@@ -28,19 +28,19 @@ X [ 5 | 3 | 7 | 10 | 5 | 12 | 2 | 17 | 19 | 5 | 20 | 15 | 30 ]
 ## Explanation and distribution of projects
  * [Arduino](https://github.com/BasilAvad/MovingAverage/tree/main/Examples/arduino).
  ```bash
-  * Support all arduino boards contain ADC.
-  * Support all Node MCU boards contain ADC like (ESP8266).
+  1- Support all arduino boards contain ADC.
+  2- Support all Node MCU boards contain ADC like (ESP8266).
  ```
  * [ESP32](https://github.com/BasilAvad/MovingAverage/tree/main/Examples/esp32).
  ```bash
-  * Support all ESP32 boards contain ADC.
+  1- Support all ESP32 boards contain ADC.
  ```
 ## Installation
 Use the Arduino IDE [Arduino IDE](https://www.arduino.cc/en/software) or PlatformIO IDE in VS Code [PlatformIO IDE](https://platformio.org) to update this code.
 ```bash
 
 
-git clone https://github.com/VahidAhmadipour/Puya-ESP-Glove
+git clone https://github.com/BasilAvad/MovingAverage
 
 ```
 ## Usage
