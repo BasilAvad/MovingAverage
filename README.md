@@ -43,24 +43,21 @@ git clone https://github.com/BasilAvad/MovingAverage
 
 ```
 ## Usage
-* Create an object of MovingAverage using the constructor
+* Include and Call the header file in your project.
 ```cpp
-//
 #include <movingaverage.h>
-
+```
+* Create an object of MovingAverage using the constructor.
+```cpp
 MovingAverage sensor1(20);
 ```
-*  Call a member function of the object in the loop function
+*  Call a member function of the object in the loop function.
 ```cpp
 void loop()
-
 {
-
+  int sensorValue1 = analogRead(MicrocontrollerADCPin);
   float result = sensor1.mafunc(sensorValue1);
-
   delay(2)
-
-
 }
 ```
 ## Contributing
