@@ -61,7 +61,7 @@ void loop()
   delay(2)
 }
 ```
-## Moving Average Test and Result
+## Moving Average Library Test and Result
 *  The blue line is sensor raw data.
 *  The red line is the sensor data with a moving average.
 
