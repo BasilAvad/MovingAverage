@@ -2,11 +2,7 @@
 <h1 align="center"> الوسط المتحرك </h1>
 
 Filter your sensor data with moving average, making your system stable and easy to control.
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+
 ## Explanation of moving average formula
 *  In Arabic.
 ```bash
@@ -66,8 +62,8 @@ void loop()
 }
 ```
 ## Moving Average Library Test and Result
-*  The blue line is sensor raw data.
-*  The red line is the sensor data with a moving average.
+*  The blue 🟦 line is sensor raw data.
+*  The red  🟥 line is the sensor data with a moving average.
 
 ![COM4 6_15_2023 2_03_10 PM](https://github.com/BasilAvad/MovingAverage/assets/69681817/bbe3f810-01bb-46a5-8662-a3d24ccba380)
 * For more watch the video -> 
