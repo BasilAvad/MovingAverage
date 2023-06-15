@@ -1,6 +1,6 @@
 <h1 align="center"> Moving Average in Cpp </h1>
 <h1 align="center"> الوسط المتحرك </h1>
-<h1 align="center"><span style="color:red">Moving Average in C++</span></h1>
+# <span style="color:red">Moving Average in C++</span>
 Filter your sensor data with moving average, making your system stable and easy to control.
 
 ## Explanation of moving average formula
