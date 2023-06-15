@@ -62,6 +62,7 @@ void loop()
 }
 ```
 <h1 align="center"> Moving Average Library Test And Result </h1>
+Filter your sensor data with moving average, making your system stable and easy to control.
 ## Contributing
 
 
