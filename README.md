@@ -62,6 +62,9 @@ void loop()
 }
 ```
 ## Moving Average Test and Result
+![COM4 6_15_2023 2_03_10 PM](https://github.com/BasilAvad/MovingAverage/assets/69681817/bbe3f810-01bb-46a5-8662-a3d24ccba380)
+https://github.com/BasilAvad/MovingAverage/assets/69681817/a9d82036-8858-4e28-aa69-52e078575ddf
+
 
 ## Contributing
 
