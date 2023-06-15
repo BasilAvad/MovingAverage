@@ -4,7 +4,7 @@
 Filter your sensor data with moving average, making your system stable and easy to control.
 
 ## Explanation of moving average formula
-*  In Arabic:
+*  In Arabic.
 ```bash
 - تعريف: الأوساط المتحركة تستخدم في توهين التعرجات الحادة في البيانات الرقمية بقصد معرفة الاتجاه العام لها..
 لنفرض على سبيل المثال توافر البيانات التالية 
