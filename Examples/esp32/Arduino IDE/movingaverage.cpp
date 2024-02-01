@@ -1,3 +1,7 @@
+/* Author : Basil AVAD
+ *
+ */
+
 #include <movingaverage.h>
 
 MovingAverage::MovingAverage(const int &_numberofSamples)
@@ -10,22 +14,21 @@ MovingAverage::MovingAverage(const int &_numberofSamples, std::queue<float> _sam
 
 float MovingAverage::mafunc(float sensorValue)
 {
- 
-        samples.push(sensorValue);
-        if (samples.size() > N)
-        {
-            samples.pop();
-        }
-        float sum = 0;
-        std::queue<float> copySamples = samples;
-        while (!copySamples.empty())
-        {
-            sum += copySamples.front();
-            copySamples.pop();
-        }
-        float movingAverage = sum / samples.size();
-        return movingAverage;
-   
+
+    samples.push(sensorValue);
+    if (samples.size() > N)
+    {
+        samples.pop();
+    }
+    float sum = 0;
+    std::queue<float> copySamples = samples;
+    while (!copySamples.empty())
+    {
+        sum += copySamples.front();
+        copySamples.pop();
+    }
+    float movingAverage = sum / samples.size();
+    return movingAverage;
 }
 
 MovingAverage::~MovingAverage()

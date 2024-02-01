@@ -1,3 +1,8 @@
+/* Author : Basil AVAD
+ *
+ *
+ */
+
 #ifndef H_MOVINGAVERAGE_H
 #define H_MOVINGAVERAGE_H
 #include <queue>
