@@ -17,9 +17,11 @@ void loop()
   float adc2 = sensorMov2.mafunc(sensorValue2);
   Serial.print("Movingaverage1:");
   Serial.println(adc1);
-  Serial.print("SensorvalueRawData:");
+  Serial.print("SensorvalueRawData1:");
   Serial.println(sensorValue1);
   Serial.print("Movingaverage2:");
   Serial.println(adc2);
+  Serial.println("SensorvalueRawData2:");
+  Serial.println(adc1);
   delay(1);
 }
