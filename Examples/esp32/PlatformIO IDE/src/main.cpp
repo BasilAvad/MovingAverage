@@ -13,8 +13,8 @@ void loop()
 {
   int sensorValue1 = analogRead(35);
   int sensorValue2 = analogRead(32); 
-  float adc1 = sensorMov.mafunc(sensorValue1); // Overloading the Function 
-  float adc2 = sensorMov2.mafunc(sensorValue2);
+  float adc1 = sensorMov.mafunc(sensorValue1); 
+  float adc2 = sensorMov2.mafunc(sensorValue2); // Overloading the Function 
   Serial.print("Movingaverage1:");
   Serial.println(adc1);
   Serial.print("SensorvalueRawData1:");
