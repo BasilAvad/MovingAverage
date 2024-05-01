@@ -25,6 +25,6 @@ public:
     MovingAverage(const int &_numberofSamples, std::queue<float> _samples);
     ~MovingAverage();
     float mafunc(float sensorValue);
-    float movingAveragefunc(float sensorValue);
+    float movingAveragefunc(float sensorValue); // Make the code more simple !!! did i need to overload the function ?
 };
 #endif
