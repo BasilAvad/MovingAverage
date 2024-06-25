@@ -63,7 +63,7 @@ void loop()
 ```
 ## Moving Average Library Test and Result
  * 🟦 The blue line is sensor raw data.
- * 🟥 The red line is the sensor data with a moving average.
+ * 🟥 The red line is the sensor filtred data with a moving average.
 
 ![COM4 6_15_2023 2_03_10 PM](https://github.com/BasilAvad/MovingAverage/assets/69681817/bbe3f810-01bb-46a5-8662-a3d24ccba380)
 * For more watch the video -> 
